@@ -1,0 +1,50 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1770a03d_002Dceb6_002D4254_002D9982_002D13feb2e288f8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Can_Get_Sales" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7FE0FEF9-D509-4586-B152-0AAABDDBD281::net8.0::ConnectApiTests.IntegrationTests.Can_Get_Sales&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=33b7be21_002D37d4_002D4b23_002Da6b2_002Dccaa11c6df8c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Can_Get_Products" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7FE0FEF9-D509-4586-B152-0AAABDDBD281::net8.0::ConnectApiTests.IntegrationTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3bb87c1e_002Dc9f8_002D4190_002D8d43_002Da842ffd5df5e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Can_Update_Pick_Qty #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7FE0FEF9-D509-4586-B152-0AAABDDBD281::net8.0::ConnectApiTests.SalesPickQtyTests.Can_Update_Pick_Qty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7FE0FEF9-D509-4586-B152-0AAABDDBD281::net8.0::ConnectApiTests.GetSalesTests.Can_Get_Sales_By_Sale_Id_And_Last_Update_Time&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4d50fdc5_002Dcb4d_002D431c_002Da882_002Daaa69091eaac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Can_Update_Pick_Qty" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Nothing /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=823ff020_002Dc780_002D4477_002D94e9_002D8af05a300ed4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Can_Get_Sales #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7FE0FEF9-D509-4586-B152-0AAABDDBD281::net8.0::ConnectApiTests.IntegrationTests.Can_Get_Sales_By_Sale_Id_And_Last_Update_Time&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=825026a6_002D01e8_002D4fb6_002D893a_002Df2a5f95ca3ac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Can_Update_Pick_Qty #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7FE0FEF9-D509-4586-B152-0AAABDDBD281::net8.0::ConnectApiTests.SalesPickQtyTests.Can_Update_Pick_Qty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7FE0FEF9-D509-4586-B152-0AAABDDBD281::net8.0::ConnectApiTests.GetSalesTests.Can_Get_Sales_By_Sale_Id_And_Last_Update_Time&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7FE0FEF9-D509-4586-B152-0AAABDDBD281::net8.0::ConnectApiTests.GetSalesTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fd0c5278_002D691b_002D4060_002D8c4f_002Ddf2b766903c7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Can_Get_Sales_By_Sale_Id_And_Last_Update_Time" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::7FE0FEF9-D509-4586-B152-0AAABDDBD281::net8.0::ConnectApiTests.GetSalesTests&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;xUnit::7FE0FEF9-D509-4586-B152-0AAABDDBD281::net8.0::ConnectApiTests.SalesPickQtyTests.Can_Update_Pick_Qty&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;Not&gt;&#xD;
+        &lt;TestAncestor&gt;&#xD;
+          &lt;TestId&gt;xUnit::7FE0FEF9-D509-4586-B152-0AAABDDBD281::net8.0::ConnectApiTests.SalesPickQtyTests.Can_Update_Pick_Qty&lt;/TestId&gt;&#xD;
+        &lt;/TestAncestor&gt;&#xD;
+      &lt;/Not&gt;&#xD;
+    &lt;/And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::7FE0FEF9-D509-4586-B152-0AAABDDBD281::net8.0::ConnectApiTests.SalesPickQtyTests.Can_Update_Pick_Qty&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
